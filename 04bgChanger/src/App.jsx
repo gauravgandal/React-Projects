@@ -9,7 +9,7 @@ function App() {
       style={{ backgroundColor: color }}
     >
       <h1 className="text-center font-bold text-red-700 bg-white text-5xl py-2 px-4">
-        Background Color Change Application
+        BG COLOR CHANGE APPLICATION IN REACTJS
       </h1>
       <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
         <div className="flex shadow-xl flex-wrap bg-white gap-3 rounded-lg px-3 py-2">
