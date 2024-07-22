@@ -41,6 +41,7 @@ function App() {
     return "Strong";
   };
 
+  
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900">
       <h1 className="text-center text-green-500 font-bold tracking-wide text-4xl mb-6">
