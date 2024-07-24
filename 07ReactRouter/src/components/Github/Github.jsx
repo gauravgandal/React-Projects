@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
 
-const GITHUB_TOKEN = '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'; // Replace with your token
+const GITHUB_TOKEN = ''; // Replace with your token
 
 function Github() {
     const [data, setData] = useState([]);
